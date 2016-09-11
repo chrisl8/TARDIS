@@ -1,3 +1,4 @@
+npm install
 mkdir ~/.tardis
 cd ~/.tardis
 mkdir sounds
