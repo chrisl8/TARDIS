@@ -1,0 +1,23 @@
+{
+  "name": "tardis",
+  "version": "1.0.0",
+  "description": "Code to run The Forgotten TARDIS",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisl8/TARDIS.git"
+  },
+  "author": "ChrisL8",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisl8/TARDIS/issues"
+  },
+  "homepage": "https://github.com/chrisl8/TARDIS#readme",
+  "dependencies": {
+    "johnny-five": "^0.10.0"
+  }
+}
