@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/chrisl8/TARDIS#readme",
   "dependencies": {
-    "johnny-five": "1.2.0"
+    "johnny-five": "1.5.0"
   }
 }
